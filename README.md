@@ -32,7 +32,7 @@ The J2EE Banking Application is a full-featured web-based banking system that pr
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/j2ee-banking-application.git
+    git clone https://github.com/Shankar-Singh-Mahanty/J2EE-Banking-Application.git
     ```
 
 2. **Import the Project into Your IDE**
